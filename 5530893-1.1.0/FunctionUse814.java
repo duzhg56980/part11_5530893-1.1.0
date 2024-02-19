@@ -1,0 +1,7 @@
+import org.apache.hadoop.ozone.om.helpers.WithObjectID;
+public class FunctionUse814 {
+public void funcUse() {
+WithObjectID withobjectid = new WithObjectID();
+withobjectid.getObjectInfo();
+}
+}
